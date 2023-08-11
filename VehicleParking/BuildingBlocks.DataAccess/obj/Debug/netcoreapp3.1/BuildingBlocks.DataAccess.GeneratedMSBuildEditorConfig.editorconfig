@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = BuildingBlocks.DataAccess
+build_property.ProjectDir = C:\Gowtham\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\

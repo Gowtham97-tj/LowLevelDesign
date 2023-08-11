@@ -1,0 +1,10 @@
+C:\Gowtham\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\bin\Debug\netcoreapp3.1\BuildingBlocks.DataAccess.deps.json
+C:\Gowtham\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\bin\Debug\netcoreapp3.1\BuildingBlocks.DataAccess.dll
+C:\Gowtham\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\bin\Debug\netcoreapp3.1\BuildingBlocks.DataAccess.pdb
+C:\Gowtham\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\netcoreapp3.1\BuildingBlocks.DataAccess.csproj.AssemblyReference.cache
+C:\Gowtham\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\netcoreapp3.1\BuildingBlocks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\netcoreapp3.1\BuildingBlocks.DataAccess.AssemblyInfoInputs.cache
+C:\Gowtham\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\netcoreapp3.1\BuildingBlocks.DataAccess.AssemblyInfo.cs
+C:\Gowtham\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\netcoreapp3.1\BuildingBlocks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Gowtham\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\netcoreapp3.1\BuildingBlocks.DataAccess.dll
+C:\Gowtham\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\netcoreapp3.1\BuildingBlocks.DataAccess.pdb
