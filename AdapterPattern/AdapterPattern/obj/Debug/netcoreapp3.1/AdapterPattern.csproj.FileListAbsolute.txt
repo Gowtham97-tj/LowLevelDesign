@@ -1,0 +1,14 @@
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.AssemblyReference.cache
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfoInputs.cache
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfo.cs
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.exe
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.deps.json
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.json
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.dev.json
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Gowtham\Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.genruntimeconfig.cache

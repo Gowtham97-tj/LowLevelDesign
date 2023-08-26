@@ -1,0 +1,14 @@
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.exe
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.deps.json
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.json
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.dev.json
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.pdb
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csproj.AssemblyReference.cache
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfoInputs.cache
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfo.cs
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.pdb
+C:\Gowtham\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.genruntimeconfig.cache

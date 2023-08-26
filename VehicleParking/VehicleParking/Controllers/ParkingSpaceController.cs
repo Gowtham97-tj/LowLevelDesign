@@ -1,5 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
+using VehicleParking.Service;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -9,36 +12,32 @@ namespace VehicleParking.Controllers
     [ApiController]
     public class ParkingSpaceController : ControllerBase
     {
-        // GET: api/<ParkingSpaceController>
-        [HttpGet]
-        public IEnumerable<string> Get()
+        private readonly IParkingSpaceService _parkingSpaceService;
+        public ParkingSpaceController(IParkingSpaceService parkingSpaceService)
         {
-            return new string[] { "value1", "value2" };
+            _parkingSpaceService = parkingSpaceService;
         }
 
-        // GET api/<ParkingSpaceController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/<ParkingSpaceController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        [Route("AddParkingSpace")]
+        public string AddParkingSpace(int parkingspaceNo, int lotNo)
         {
+            _parkingSpaceService.AddParkingSpace(parkingspaceNo, lotNo);
+            return "";
         }
 
-        // PUT api/<ParkingSpaceController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpGet]
+        [Route("ParkingSpaces")]
+        public string ParkingSpaces()
         {
+            return _parkingSpaceService.ParkingSpaces();
         }
 
-        // DELETE api/<ParkingSpaceController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        [HttpDelete]
+        [Route("DeleteParkingSpace")]
+        public string DeleteParkingSpace(int spaceNo)
         {
+            return _parkingSpaceService.DeleteParkingSpace(spaceNo);
         }
     }
 }

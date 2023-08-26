@@ -1,0 +1,14 @@
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.exe
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.deps.json
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.runtimeconfig.json
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.runtimeconfig.dev.json
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.dll
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.pdb
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.csproj.AssemblyReference.cache
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.AssemblyInfoInputs.cache
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.AssemblyInfo.cs
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.csproj.CoreCompileInputs.cache
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.dll
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.pdb
+C:\Gowtham\Design Patterns\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.genruntimeconfig.cache

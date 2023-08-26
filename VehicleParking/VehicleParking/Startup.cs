@@ -7,6 +7,7 @@ using VehicleParking.Common;
 using VehicleParking.Repository;
 using VehicleParking.Service;
 using BuildingBlocks.DataAccess;
+using Microsoft.OpenApi.Models;
 
 namespace VehicleParking
 {
@@ -27,6 +28,16 @@ namespace VehicleParking
             services.AddControllers();
             services.AddSingleton<IParkingService, ParkingService>();
             services.AddSingleton<IParkingRepository, ParkingRepository>();
+            services.AddSingleton<IUserService, UserService>();
+            services.AddSingleton<IUserRepository, UserRepository>();
+            services.AddSingleton<IParkingSpaceService, ParkingSpaceService>();
+            services.AddSingleton<IParkingSpaceRepository, ParkingSpaceRepository>();
+            services.AddSingleton<IParkingLotService, ParkingLotService>();
+            services.AddSingleton<IParkingLotRepository, ParkingLotRepository>();
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Parking API", Version = "v1" });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -36,6 +47,12 @@ namespace VehicleParking
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Park Your Vehicle");
+            });
 
             app.UseHttpsRedirection();
 

@@ -1,0 +1,14 @@
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.exe
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.deps.json
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.json
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.dev.json
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.dll
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.pdb
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csproj.AssemblyReference.cache
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfoInputs.cache
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfo.cs
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.dll
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.pdb
+C:\Gowtham\Design Patterns\PrototypePattern\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.genruntimeconfig.cache

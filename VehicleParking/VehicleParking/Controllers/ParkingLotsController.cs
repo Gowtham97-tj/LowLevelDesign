@@ -1,5 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -9,36 +12,38 @@ namespace VehicleParking.Controllers
     [ApiController]
     public class ParkingLotsController : ControllerBase
     {
-        // GET: api/<ParkingLotsController>
-        [HttpGet]
-        public IEnumerable<string> Get()
+        private IConfiguration _configuration;
+        public ParkingLotsController(IConfiguration configuration)
         {
-            return new string[] { "value1", "value2" };
+            _configuration = configuration;
         }
 
-        // GET api/<ParkingLotsController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/<ParkingLotsController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        [Route("AddParkingLot")]
+        public string AddParkingLot(int parkingspaces)
         {
+            return "";
         }
 
-        // PUT api/<ParkingLotsController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut]
+        [Route("UpdateParkingLot")]
+        public string UpdateParkingLot(Guid id, int parkingspaces)
         {
+            return "";
         }
 
-        // DELETE api/<ParkingLotsController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        [HttpGet]
+        [Route("ParkingLots")]
+        public string ParkingLots()
         {
+            return "";
+        }
+
+        [HttpDelete]
+        [Route("DeleteParkingLot")]
+        public string DeleteParkingLot(Guid id)
+        {
+            return "";
         }
     }
 }

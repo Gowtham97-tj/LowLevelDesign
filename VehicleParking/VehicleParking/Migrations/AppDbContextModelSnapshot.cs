@@ -25,8 +25,8 @@ namespace VehicleParking.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("Name")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -39,8 +39,17 @@ namespace VehicleParking.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<DateTime>("EntryTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsOccupied")
+                        .HasColumnType("bit");
+
                     b.Property<Guid>("ParkingLotId")
                         .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("ParkingSpaceNo")
+                        .HasColumnType("int");
 
                     b.Property<Guid>("VehicleId")
                         .HasColumnType("uniqueidentifier");
@@ -74,9 +83,6 @@ namespace VehicleParking.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<DateTime>("EntryTime")
-                        .HasColumnType("datetime2");
-
                     b.Property<string>("LicensePlate")
                         .HasColumnType("nvarchar(max)");
 
@@ -96,7 +102,7 @@ namespace VehicleParking.Migrations
             modelBuilder.Entity("VehicleParking.Models.ParkingSpace", b =>
                 {
                     b.HasOne("VehicleParking.Models.ParkingLot", "ParkingLot")
-                        .WithMany()
+                        .WithMany("ParkingSpaces")
                         .HasForeignKey("ParkingLotId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -121,6 +127,11 @@ namespace VehicleParking.Migrations
                         .IsRequired();
 
                     b.Navigation("User");
+                });
+
+            modelBuilder.Entity("VehicleParking.Models.ParkingLot", b =>
+                {
+                    b.Navigation("ParkingSpaces");
                 });
 
             modelBuilder.Entity("VehicleParking.Models.User", b =>

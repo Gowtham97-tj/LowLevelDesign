@@ -1,0 +1,14 @@
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.csproj.AssemblyReference.cache
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfoInputs.cache
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfo.cs
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.exe
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.deps.json
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.runtimeconfig.json
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.runtimeconfig.dev.json
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.dll
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.dll
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
+C:\Gowtham\Design Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.genruntimeconfig.cache
