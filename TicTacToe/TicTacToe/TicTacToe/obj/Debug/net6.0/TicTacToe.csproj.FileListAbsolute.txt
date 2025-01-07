@@ -1,0 +1,14 @@
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.exe
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.deps.json
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.runtimeconfig.json
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfo.cs
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\obj\Debug\net6.0\refint\TicTacToe.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\TicTacToe\TicTacToe\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll
