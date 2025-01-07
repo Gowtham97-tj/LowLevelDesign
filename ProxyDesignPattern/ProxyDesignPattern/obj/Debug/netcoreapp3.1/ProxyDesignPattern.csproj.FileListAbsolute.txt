@@ -12,3 +12,16 @@ C:\Gowtham\Design Patterns\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netco
 C:\Gowtham\Design Patterns\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.dll
 C:\Gowtham\Design Patterns\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.pdb
 C:\Gowtham\Design Patterns\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.genruntimeconfig.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.exe
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.deps.json
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.runtimeconfig.json
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.runtimeconfig.dev.json
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.AssemblyInfoInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.AssemblyInfo.cs
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.genruntimeconfig.cache

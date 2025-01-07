@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gqhGakkQk/XfughruEcAd31RWJqn0UYMTvkUcvfvUgQnTy7e2R8vNl4BIgwe5pm/GVM9u5OI6h2dGj7DqXQc5A==",
+  "dgSpecHash": "GWaskNyqjPzqWRxQXyOkLsOSYlDDfZVnKDjoMvC5l+JhtKDR+PPqQXoPYrM+cgmtmrveBALwp6ZyPAmtbB84yw==",
   "success": true,
-  "projectFilePath": "C:\\Gowtham\\Design Patterns\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj",
+  "projectFilePath": "C:\\Gowtham\\Design Patterns\\LowLevelDesign\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

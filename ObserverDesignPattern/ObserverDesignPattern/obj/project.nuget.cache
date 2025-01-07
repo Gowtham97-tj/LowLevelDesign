@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UR/ifvNqlNEH9EozyosI0p8LbtmDALORLuFjrEregQYGVCeSPoTf/jdaONA8XqkGmmt79Pq+NfyVCpSHs83O+A==",
+  "dgSpecHash": "95i+cdcmFJrf3k5XOflDtzE/W3BUqbJ9vwMjMT8eYCaZyKip5rDDOERNXvL0lnZTjeBVSjBCWZsFN4arb/KYUQ==",
   "success": true,
-  "projectFilePath": "C:\\Gowtham\\Design Patterns\\ObserverDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern.csproj",
+  "projectFilePath": "C:\\Gowtham\\Design Patterns\\LowLevelDesign\\ObserverDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

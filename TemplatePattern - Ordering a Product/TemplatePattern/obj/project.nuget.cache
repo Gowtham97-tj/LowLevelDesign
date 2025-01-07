@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DWR3x5uTYwshtWGv2xjnlGoNfKBqQOfZeQKu6iQ337QTL+2mCAkeJvsSM2Gzw0NnZsL2UhFuuu1r33F/7Cwxgw==",
+  "dgSpecHash": "WGKn7uRehMR6BbF+VvpIS1xjST2hiJozEuXnTVNJbldDp7cC0XZSn+WMScUT0ImlRxyus4O5tqCUnEU6GPNsFw==",
   "success": true,
-  "projectFilePath": "C:\\Gowtham\\Design Patterns\\TemplatePattern\\TemplatePattern\\TemplatePattern.csproj",
+  "projectFilePath": "C:\\Gowtham\\Design Patterns\\LowLevelDesign\\TemplatePattern - Ordering a Product\\TemplatePattern\\TemplatePattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

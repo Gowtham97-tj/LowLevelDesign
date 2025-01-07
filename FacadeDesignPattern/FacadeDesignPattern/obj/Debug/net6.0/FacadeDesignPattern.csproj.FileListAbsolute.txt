@@ -1,0 +1,14 @@
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net6.0\FacadeDesignPattern.exe
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net6.0\FacadeDesignPattern.deps.json
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net6.0\FacadeDesignPattern.runtimeconfig.json
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net6.0\FacadeDesignPattern.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net6.0\FacadeDesignPattern.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.AssemblyInfoInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.AssemblyInfo.cs
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\refint\FacadeDesignPattern.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.genruntimeconfig.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\ref\FacadeDesignPattern.dll

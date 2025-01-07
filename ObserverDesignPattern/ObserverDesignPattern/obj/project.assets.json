@@ -1,38 +1,38 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Zaggle\\.nuget\\packages\\": {}
+    "C:\\Users\\gowtham.thiyada\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Gowtham\\Design Patterns\\ObserverDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern.csproj",
+      "projectUniqueName": "C:\\Gowtham\\Design Patterns\\LowLevelDesign\\ObserverDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern.csproj",
       "projectName": "ObserverDesignPattern",
-      "projectPath": "C:\\Gowtham\\Design Patterns\\ObserverDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern.csproj",
-      "packagesPath": "C:\\Users\\Zaggle\\.nuget\\packages\\",
-      "outputPath": "C:\\Gowtham\\Design Patterns\\ObserverDesignPattern\\ObserverDesignPattern\\obj\\",
+      "projectPath": "C:\\Gowtham\\Design Patterns\\LowLevelDesign\\ObserverDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern.csproj",
+      "packagesPath": "C:\\Users\\gowtham.thiyada\\.nuget\\packages\\",
+      "outputPath": "C:\\Gowtham\\Design Patterns\\LowLevelDesign\\ObserverDesignPattern\\ObserverDesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Zaggle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gowtham.thiyada\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -43,15 +43,16 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

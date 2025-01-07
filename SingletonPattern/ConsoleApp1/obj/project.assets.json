@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Zaggle\\.nuget\\packages\\": {}
+    "C:\\Users\\gowtham.thiyada\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Gowtham\\Design Patterns\\SingletonPattern\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Gowtham\\Design Patterns\\LowLevelDesign\\SingletonPattern\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Gowtham\\Design Patterns\\SingletonPattern\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\Zaggle\\.nuget\\packages\\",
-      "outputPath": "C:\\Gowtham\\Design Patterns\\SingletonPattern\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Gowtham\\Design Patterns\\LowLevelDesign\\SingletonPattern\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\gowtham.thiyada\\.nuget\\packages\\",
+      "outputPath": "C:\\Gowtham\\Design Patterns\\LowLevelDesign\\SingletonPattern\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Zaggle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gowtham.thiyada\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

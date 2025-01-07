@@ -1,0 +1,14 @@
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.exe
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.deps.json
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.runtimeconfig.json
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfoInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfo.cs
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\obj\Debug\net6.0\refint\PrototypePattern.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.genruntimeconfig.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\PrototypePattern\PrototypePattern\obj\Debug\net6.0\ref\PrototypePattern.dll

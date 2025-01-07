@@ -1,0 +1,12 @@
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\bin\Debug\net6.0\BuildingBlocks.DataAccess.deps.json
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\bin\Debug\net6.0\BuildingBlocks.DataAccess.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\bin\Debug\net6.0\BuildingBlocks.DataAccess.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\net6.0\BuildingBlocks.DataAccess.csproj.AssemblyReference.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\net6.0\BuildingBlocks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\net6.0\BuildingBlocks.DataAccess.AssemblyInfoInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\net6.0\BuildingBlocks.DataAccess.AssemblyInfo.cs
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\net6.0\BuildingBlocks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\net6.0\BuildingBlocks.DataAccess.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\net6.0\refint\BuildingBlocks.DataAccess.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\net6.0\BuildingBlocks.DataAccess.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\VehicleParking\BuildingBlocks.DataAccess\obj\Debug\net6.0\ref\BuildingBlocks.DataAccess.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YK1TpXq/sbQGHD9PC2Gdox/5QS8vAjLGaWYuPDBd+wET/P1RXTzGxnWh7iKltzXbt8ca3piRZHErLIWCDdaLXw==",
+  "success": true,
+  "projectFilePath": "C:\\Gowtham\\Design Patterns\\LowLevelDesign\\SessionApp\\SessionApp\\SessionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gowtham.thiyada\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gowtham.thiyada\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gowtham.thiyada\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gowtham.thiyada\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

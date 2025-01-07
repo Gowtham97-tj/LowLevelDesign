@@ -1,0 +1,14 @@
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\bin\Debug\net6.0\FlyWeightPattern.exe
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\bin\Debug\net6.0\FlyWeightPattern.deps.json
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\bin\Debug\net6.0\FlyWeightPattern.runtimeconfig.json
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\bin\Debug\net6.0\FlyWeightPattern.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\bin\Debug\net6.0\FlyWeightPattern.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.AssemblyInfoInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.AssemblyInfo.cs
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.csproj.CoreCompileInputs.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\refint\FlyWeightPattern.dll
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.pdb
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.genruntimeconfig.cache
+C:\Gowtham\Design Patterns\LowLevelDesign\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\ref\FlyWeightPattern.dll
